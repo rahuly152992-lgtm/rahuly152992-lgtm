@@ -26,4 +26,5 @@ Hindi, English
 
 ## 📫 Connect with me
 - Email: rahul.y152992@gmail.com
-- LinkedIn: [add your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/
+alok-yadav-672549335
